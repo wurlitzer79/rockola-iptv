@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rockola-IPTV</title>	
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="encabezado">
+        <div class="logo">Rockola-IPTV</div>
+    </div>
+    
+    <div class="contenedor" id="contenedor-peliculas">
+        <!-- Las películas se cargarán aquí dinámicamente -->
+    </div>
+
+    <div class="reproductor" id="reproductor" style="display: none;">
+        <div class="contenedor-video" id="contenedor-video">
+            <video id="video-player"></video>
+            
+            <div class="controles-video" id="controles-video">
+                <div class="barra-progreso">
+                    <input type="range" id="progreso" min="0" max="100" value="0" step="0.1">
+                    <div class="tiempo">
+                        <span id="tiempo-actual">00:00</span>
+                        <span id="tiempo-total">00:00</span>
+                    </div>
+                </div>
+                
+                <div class="botones-controles">
+                    <button id="btn-play-pause"><i class="fas fa-play"></i></button>
+                    <button id="btn-mute"><i class="fas fa-volume-up"></i></button>
+                    <input type="range" id="volumen" min="0" max="1" value="1" step="0.1">
+                    <button id="btn-pantalla-completa"><i class="fas fa-expand"></i></button>
+                </div>
+            </div>
+            
+            <button class="btn-cerrar" id="btn-cerrar"><i class="fas fa-times"></i></button>
+        </div>
+    </div>
+    
+    <div class="pie-pagina">
+        © 2025 Rockola-IPTV - Todos los derechos reservados
+    </div>
+
+    <script src="movies5.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
