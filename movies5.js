@@ -809,10 +809,7 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3Yjk0YmMtOGE0MS00MmQ3LTk4ZTMtYzM3ZWZlYmI2N2I5XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mkv'
 	  }
-	 ,{ title: 'Pelicula<br>MICKEY 17',
-		thumbnail: 'https://fr.web.img6.acsta.net/img/f2/d1/f2d1e49c0fcf94684cfb1a7d17e9cb8b.jpg',
-		url: 'http://cineflex.cc:8080/movie/Luis2025/Luis2026/361651.mp4'		 
-	  }
+
 	  
 	 // ,{ title: 'Pelicula Bajando<br>Los Pitufos', 
 	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2Q2NmQzZDktMDg3Yy00YTZhLWI1MTQtZWYyYTA1YmM1OWJjXkEyXkFqcGc@._V1_.jpg', 
