@@ -707,6 +707,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmVjMmYyYzktZjMzYy00NjA3LTk3ODEtOGE5OWVlMmNjY2QyXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/stalone-coll/stalone%20coll4.mp4'
 	  }
+	 ,{ title: 'Peliculas Stallone<br>Condena Brutal', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTVkNDE2ZDUtYjAzOC00OWYyLWI5M2ItNTgxYjAxNGY4ZWFhXkEyXkFqcGc@._V1_FMjpg_UY337_.jpg', 
+	    url: 'https://archive.org/download/condena-brutal-1989-latino-briant-rb/Condena%20Brutal%20%281989%29%28Latino%29%28Briant%20RB%29.mp4'
+	  }
 	  	  
 	 ,{ title: 'Pelicula Scary Movie<br>Scary Movie 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_.jpg', 
