@@ -108,15 +108,15 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzFjYzgxYmItYmI1OC00NWM5LWFmYWEtNDRiYmZiN2U4MzZhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/la-ratoncita-valiente-1982-espanol-latino/La%20Ratoncita%20Valiente%20%281982%29%20Espa%C3%B1ol%20Latino.mp4'
 	  }
-     ,{ title: 'Infantil Varios<br>UP Una Aventura de Altura', 
+     	,{ title: 'Infantil Varios<br>UP Una Aventura de Altura', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/UP-%20UNA%20AVENTURA%20DE%20ALTURA.mp4'
 	  }	  	  
-     ,{ title: 'Infantil Varios<br>Vacas Vaqueras', 
+     	,{ title: 'Infantil Varios<br>Vacas Vaqueras', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTkzNDNmNDktNjAwOS00NmI5LWJkM2YtODYyMjE4ZTcwODQ2XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/VACAS%20VAQUERAS.mp4'
 	  }	  	  
-     ,{ title: 'Infantil Varios<br>Zootopia', 
+    	 ,{ title: 'Infantil Varios<br>Zootopia', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGNjNDRhOTctZjU2OS00ODBkLWFkZWEtMjI4ZWQ4MTllMTFiXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/ZOOTOPIA.mp4'
 	  }
@@ -132,6 +132,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTVmY2I1YjctMDMwMS00OWFmLWFiNDktMTk2ZDljZDIzYTg4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/street-fighter-2_202404/1_5096039436131500955.mp4'
 	  }	  
+	 ,{ title: 'Infantil Varios<br>Minion Nace un Villano', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjU2OTc3NjMtNzcxYi00ODAwLWFkZTAtNzQyMzkzMTgzYzI4XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/minions.-nace.-un.-villano.-1080p.-dual-latino._202401/Minions.%20Nace.Un.Villano.1080p.Dual-Latino..mp4'
+	  }
 	  
      ,{ title: 'Infantil Angry Bird<br>Angry Bird 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRlNmIxN2ItMDE4NS00NTM2LTllNTEtNzAwZTIzZmE0YzA2XkEyXkFqcGc@._V1_.jpg', 
@@ -665,9 +669,45 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
+	 ,{ title: 'Pelicula<br>Piraña 3D', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
+	  }	  
+	 ,{ title: 'Pelicula<br>Dragon Ball Super: Broly', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Resurrección De Freezer', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGZkMWExNjctN2I3ZC00NDYwLTk5ODQtYWMxNTdhNmMzMDA1XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20Ball%20Z%3A%20La%20Resurrecci%C3%B3n%20de%20Freezer.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Batalla De Los Dioses', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTEzZTFkNzctZTQ0NC00NWI2LWI3OTEtMWEzOGZhZWFiZjg2XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dragon-ball-z-la-batalla-de-los-dioses/Dragon%20Ball%20Z%20la%20Batalla%20de%20los%20Dioses.mp4'
+	  }
+	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: The End Of Evangelion', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDUzNjgyNDEtYzUyNi00ZWNhLWE1OTAtZjdjNjBhZDc5YmQ3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/the-end-of-evangelion-1997_202010/27%20-%20The%20End%20of%20Evangelion%20%281997%29.mkv'
+	  }	  
+	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: Death & Rebirth', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGRiOWQyOTAtZDQ0Ny00NGRiLWIyYTYtZWM1MjNjNzg0ZjE3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/neon-genesis-evangelion-death-rebirth/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.mp4'
+	  }	  	  
+	 ,{ title: 'Pelicula<br>Gran Prix', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWZlYWFjMzItMTI0My00OGIxLThhYzktMTkxMDNiZThlNjdlXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/grand-prix-1978/Grand%20Prix%20%281978%29.mp4'
+	  }	      
+	 ,{ title: 'Pelicula<br>La Purga', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3Yjk0YmMtOGE0MS00MmQ3LTk4ZTMtYzM3ZWZlYmI2N2I5XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mkv'
+	  }
 	 ,{ title: 'Pelicula<br>Sangre por Sangre',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDEwYWY5ZjEtNjA5OC00ZGEyLWE3YjgtOWRiNmFiNzU0ZGFiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/sangre-por-sangre.-1993.720p.-latino/Sangre%20por%20Sangre.1993.720p.Latino.mp4'		 
+	 }
+	 ,{ title: 'Pelicula<br>Soy Leyenda',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjcyOWYxNWYtNGU0ZC00ZWJhLThmZDktYmI1NzRmYjNkZjQ5XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/soy-leyenda-2007_202505/Soy%20Leyenda%20%282007%29.mkv'		 
 	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
@@ -787,82 +827,6 @@
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
 	  }	  
 
-	 ,{ title: 'Pelicula<br>Piraña 3D', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
-	  }	  
-	 ,{ title: 'Pelicula<br>Dragon Ball Super: Broly', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Resurrección De Freezer', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGZkMWExNjctN2I3ZC00NDYwLTk5ODQtYWMxNTdhNmMzMDA1XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20Ball%20Z%3A%20La%20Resurrecci%C3%B3n%20de%20Freezer.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Dragon Ball Z: La Batalla De Los Dioses', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTEzZTFkNzctZTQ0NC00NWI2LWI3OTEtMWEzOGZhZWFiZjg2XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/dragon-ball-z-la-batalla-de-los-dioses/Dragon%20Ball%20Z%20la%20Batalla%20de%20los%20Dioses.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: The End Of Evangelion', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDUzNjgyNDEtYzUyNi00ZWNhLWE1OTAtZjdjNjBhZDc5YmQ3XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/the-end-of-evangelion-1997_202010/27%20-%20The%20End%20of%20Evangelion%20%281997%29.mkv'
-	  }	  
-	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: Death & Rebirth', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGRiOWQyOTAtZDQ0Ny00NGRiLWIyYTYtZWM1MjNjNzg0ZjE3XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/neon-genesis-evangelion-death-rebirth/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.mp4'
-	  }	  	  
-	 ,{ title: 'Pelicula<br>Gran Prix', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWZlYWFjMzItMTI0My00OGIxLThhYzktMTkxMDNiZThlNjdlXkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/grand-prix-1978/Grand%20Prix%20%281978%29.mp4'
-	  }	  
-
-// NO SUBIDOS \\	 
-	 ,{ title: 'Infantil Varios<br>Minion Nace un Villano', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjU2OTc3NjMtNzcxYi00ODAwLWFkZTAtNzQyMzkzMTgzYzI4XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/minions.-nace.-un.-villano.-1080p.-dual-latino._202401/Minions.%20Nace.Un.Villano.1080p.Dual-Latino..mp4'
-	  }
-	 ,{ title: 'Pelicula<br>La Purga', 
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3Yjk0YmMtOGE0MS00MmQ3LTk4ZTMtYzM3ZWZlYmI2N2I5XkEyXkFqcGc@._V1_.jpg', 
-	    url: 'https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mkv'
-	  }
-
-	  
-	 // ,{ title: 'Pelicula Bajando<br>Los Pitufos', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2Q2NmQzZDktMDg3Yy00YTZhLWI1MTQtZWYyYTA1YmM1OWJjXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://vd160.okcdn.ru/?expires=1741355627202\u0026srcIp=186.20.202.205\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.7\u0026type=3\u0026sig=EuEvY5wJN7E\u0026ct=0\u0026urls=185.226.55.11\u0026clientType=1\u0026zs=43\u0026id=3710955424444'
-	  // }	  
-	 // ,{ title: 'Pelicula Bajando<br>Nosferatu', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://ok6-13.vkuser.net/?expires=1741356459566\u0026srcIp=186.20.202.205\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.140\u0026type=5\u0026subId=7668580026976\u0026sig=Be3AsrXxr5k\u0026ct=0\u0026urls=185.226.52.70%3B45.136.21.8\u0026clientType=1\u0026zs=43\u0026id=7668580026976'
-	  // }
-	 // ,{ title: 'Pelicula Bajando<br>El Abismo Secreto', 
-	    // thumbnail: 'https://pics.filmaffinity.com/the_gorge-141845455-large.jpg', 
-	    // url: 'https://vd333.okcdn.ru/?expires=1741363496337\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.53.42\u0026type=5\u0026subId=7668763396704\u0026sig=ArZ9J72aWM8\u0026ct=0\u0026urls=185.226.55.37\u0026clientType=1\u0026zs=43\u0026id=7668763396704'
-	  // }	  	  
-	 // ,{ title: 'Pelicula Bajando<br>Las aventuras de Dog Man', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWJmM2UwNjYtYzE3YS00MDNmLWE5NjAtY2I5NThmNWY0NDZhXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://ok6-15.vkuser.net/?expires=1741366967892\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.142\u0026type=5\u0026subId=7691598170720\u0026sig=o7-PEPil-UI\u0026ct=0\u0026urls=185.226.55.25%3B45.136.20.28\u0026clientType=1\u0026zs=43\u0026id=7691598170720'
-	  // }	  
-	 // ,{ title: 'Pelicula Bajando<br>La chica más hermosa del mundo', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGE5Y2MzMzEtMWZhNS00NmM2LThkMTgtZjBmZDFiYTJmZjcxXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://vd446.okcdn.ru/?expires=1741371723620\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.33\u0026type=5\u0026subId=7674247973472\u0026sig=CHXCz-QhqrU\u0026ct=0\u0026urls=185.226.55.19\u0026clientType=1\u0026zs=43\u0026id=7674247973472'
-	  // }	
-	 // ,{ title: 'Pelicula Bajando<br>Your name', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTIyNzFjNzItZmQ1MC00NzhjLThmMzYtZjRhN2Y3MmM2OGQyXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://vd158.okcdn.ru/?expires=1741379456353\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.5\u0026type=5\u0026sig=tWitD102buo\u0026ct=0\u0026urls=185.226.53.25\u0026clientType=1\u0026zs=43\u0026id=363245472356'
-	  // }	  
-	 // ,{ title: 'Pelicula Bajando<br>Shin Chan El Chuleton Imposible', 
-	    // thumbnail: 'https://es.web.img3.acsta.net/c_310_420/pictures/18/02/09/12/50/0009748.jpg', 	  
-		// url: 'https://ok6-15.vkuser.net/?expires=1741379827606\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.142\u0026type=3\u0026sig=o79eXFbc0sk\u0026ct=0\u0026urls=45.136.22.32%3B45.136.21.11\u0026clientType=1\u0026zs=43\u0026id=3317777959513'
-	  // }			
-	 // ,{ title: 'Pelicula Bajando<br>Primer', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGY2NjEwM2ItYWIzMS00ODQ5LWJmYjctNmQ2ZGEwMTdhMzBkXkEyXkFqcGc@._V1_.jpg', 
-	    // url: 'https://vd360.okcdn.ru/?expires=1741380622178\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.21.75\u0026type=3\u0026sig=ZtghHaoW6yU\u0026ct=0\u0026urls=45.136.22.44\u0026clientType=1\u0026zs=43\u0026id=3439876508249'
-	  // }
-	 // ,{ title: 'Pelicula Bajando<br>El asesinato de John Lennon', 
-	    // thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTg1NjUwMzY3N15BMl5BanBnXkFtZTcwODk2MDg5MQ@@._V1_.jpg', 
-	    // url: 'https://vd532.okcdn.ru/?expires=1741380973908\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.55.42\u0026type=3\u0026sig=GVW8kY9PWZQ\u0026ct=0\u0026urls=185.226.53.30\u0026clientType=1\u0026zs=43\u0026id=4348403190361'
-	  // }
 	  
 	];
 
