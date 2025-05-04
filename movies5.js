@@ -605,26 +605,6 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Destino Final 1',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMwNTc4NjItNzJhZC00OWY5LWE2NGYtMzkwNTZmOTI4YWMzXkEyXkFqcGc@._V1_.jpg',
-	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Destino Final 2',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzEzMmZiZDgtY2IxNC00ZmNjLTljYzMtZjhjZTRhM2IwN2Y5XkEyXkFqcGc@._V1_.jpg',
-	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%202.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Destino Final 3',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWM1NWVmMGQtZTUzNC00NzAwLWIzMmMtMmUwMmQwYzY3MjVkXkEyXkFqcGc@._V1_.jpg',
-	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%203.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Destino Final 4',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzY2YWViNDItNWM1NC00MGFhLTg1NzctMGIyYTMwYTk1MTdiXkEyXkFqcGc@._V1_.jpg',
-	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%204.mp4'
-	  }
-	 ,{ title: 'Pelicula<br>Destino Final 5',
-	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmUyMWVjYzMtY2M5Yy00NGY5LTg0ZjgtMWUyMWE3ZDgzNjI4XkEyXkFqcGc@._V1_.jpg',
-	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%205.mp4'
-	  }
 	 ,{ title: 'Pelicula<br>El Increible Hulk', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
@@ -685,9 +665,9 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Infinite',
-		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
-		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
+	 ,{ title: 'Pelicula<br>Sangre por Sangre',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDEwYWY5ZjEtNjA5OC00ZGEyLWE3YjgtOWRiNmFiNzU0ZGFiXkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/sangre-por-sangre.-1993.720p.-latino/Sangre%20por%20Sangre.1993.720p.Latino.mp4'		 
 	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
@@ -695,7 +675,29 @@
 		url: 'https://archive.org/download/yo-antes-de-ti.-720p.-audio-latino/Yo%20Antes%20De%20Ti.720p.AudioLatino.mkv'		 
 	 }
 	*/
-	 
+	    
+
+	 ,{ title: 'Peliculas Destino Final<br>Destino Final 1',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMwNTc4NjItNzJhZC00OWY5LWE2NGYtMzkwNTZmOTI4YWMzXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final.mp4'
+	  }
+	 ,{ title: 'Peliculas Destino Final<br>Destino Final 2',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzEzMmZiZDgtY2IxNC00ZmNjLTljYzMtZjhjZTRhM2IwN2Y5XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%202.mp4'
+	  }
+	 ,{ title: 'Peliculas Destino Final<br>Destino Final 3',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOWM1NWVmMGQtZTUzNC00NzAwLWIzMmMtMmUwMmQwYzY3MjVkXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%203.mp4'
+	  }
+	 ,{ title: 'Peliculas Destino Final<br>Destino Final 4',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzY2YWViNDItNWM1NC00MGFhLTg1NzctMGIyYTMwYTk1MTdiXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%204.mp4'
+	  }
+	 ,{ title: 'Peliculas Destino Final<br>Destino Final 5',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmUyMWVjYzMtY2M5Yy00NGY5LTg0ZjgtMWUyMWE3ZDgzNjI4XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%205.mp4'
+	  }
+
 	  
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGFkZmZhYWYtMTk3Mi00MWE2LWFiNjItZDUzNWY2OGM5ZTBiXkEyXkFqcGc@._V1_.jpg', 
