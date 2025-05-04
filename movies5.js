@@ -689,6 +689,10 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://ok6-4.vkuser.net/?expires=1741090264909\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=95.142.206.131\u0026type=5\u0026sig=lE9WTW0fUck\u0026ct=0\u0026urls=45.136.22.7%3B45.136.20.75\u0026clientType=1\u0026zs=43\u0026id=6631425641204'		 
 	 }
+	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/yo-antes-de-ti.-720p.-audio-latino/Yo%20Antes%20De%20Ti.720p.AudioLatino.mkv'		 
+	 }
 	 
 	  
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
