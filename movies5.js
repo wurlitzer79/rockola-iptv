@@ -709,6 +709,10 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjcyOWYxNWYtNGU0ZC00ZWJhLThmZDktYmI1NzRmYjNkZjQ5XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/soy-leyenda-2007_202505/Soy%20Leyenda%20%282007%29.mkv'		 
 	 }
+	 ,{ title: 'Pelicula<br>El Robo del Siglo',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/el-robo-del-siglo.-2020.720p.-latino/El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
+	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
