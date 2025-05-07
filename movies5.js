@@ -531,79 +531,99 @@
 	  }	  
 	 
 	 <!-- ********** STUDIO GHIBLI ***************************************************************************************************************** -->	  
-	 ,{ title: 'Studio Ghibli<br>El Castillo en el Cielo',
+	 ,{ title: 'Studio Ghibli<br>1984 NAUSICAA del valle del viento', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzU1YWQ4NTItMjI2Zi00NTc2LWFiYjktNDMyODdmN2FmYTRkXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/1984-kaze-no-tani-no-naushika-nausicaa-del-valle-del-viento/1984_Kaze_no_Tani_no%20Naushika_%28Nausicaa%20del%20valle%20del%20viento%29.ia.mp4'
+	  }	  	 
+	 ,{ title: 'Studio Ghibli<br>1986 El Castillo en el Cielo',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmE0ZjEzMDgtNmJlOS00YjNhLTgyZTctNzExOTNhNjdjNzEzXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/2.-el-castillo-en-el-cielo/2.%20El%20castillo%20en%20el%20cielo.mp4'
 	  }	  
-	 ,{ title: 'Studio Ghibli<br>La Tumba de las Luciernagas',
+	 ,{ title: 'Studio Ghibli<br>1988 La Tumba de las Luciernagas',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjdlOTNhMGItMDgxYy00OTYwLTkwMGYtNzAzMDRlNGEyODI1XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/3.-la-tumba-de-las-luciernagas/3.%20La%20tumba%20de%20las%20luci%C3%A9rnagas.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Mi Vecino Totoro',
+	 ,{ title: 'Studio Ghibli<br>1988 Mi Vecino Totoro',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzhjNTQ5N2UtZjAxMS00NDVlLTg2ZWMtMDAzZDY0NGEyYzU4XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/4.-mi-vecino-totoro/4.%20Mi%20vecino%20totoro.ia.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Recuerdos del Ayer',
+	 ,{ title: 'Studio Ghibli<br>1989 KIKI Entregas a domicilio', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzExZWM4N2EtZmZlYS00NGMxLWFmZDgtZDdiOTdhYzkwZjlkXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/1989-majo-no-takkyubin-kiki-aprendiz-de-bruja/1989_Majo_no_takky%C3%BBbin_%28Kiki_aprendiz_de_bruja%29.mp4'
+	  }	  
+	 ,{ title: 'Studio Ghibli<br>1991 Recuerdos del Ayer',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmViYmU2MzItYTMyOS00OWJiLTg4NDMtNGE5MGI2ODZjYzkxXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/6.-recuerdos-del-ayer/6.%20Recuerdos%20del%20ayer.mkv'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Puedo escuchar el Mar',
+	 ,{ title: 'Studio Ghibli<br>1992 PORCO ROSSO', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTJlZWU0ODEtNTQyMy00YzZjLTk0NzgtNmJkNDRiMjk0NjA3XkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/1992-kurenai-no-buta-porco-rosso/1992_Kurenai_no_Buta_%28Porco_Rosso%29%20.mp4'
+	  }
+	 ,{ title: 'Studio Ghibli<br>1993 Puedo escuchar el Mar',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzNhNTZkNjItNzUxYi00YzFhLWEzYmYtMTM5ZDViZTgzZTkwXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/8.-puedo-escuchar-el-mar/8.%20Puedo%20escuchar%20el%20mar.mkv'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Pompoko',
+	 ,{ title: 'Studio Ghibli<br>1994 Pompoko',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3ZjhjM2QtMTZjNi00OGUyLWI5YTItODFiOTFkNmJlMTY3XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/9.-p-0mp-0k-0/9.%20P0mp0k0.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Susurros del Corazón',
+	 ,{ title: 'Studio Ghibli<br>1995 Susurros del Corazón',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjVlMDBkOTgtNWU4Mi00ODMzLWJlZDctMWY5NjIyMDdlNzhiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/10.-susurros-del-corazon/10.%20Susurros%20del%20coraz%C3%B3n.mkv'
 	  }
-	 ,{ title: 'Studio Ghibli<br>La Princesa Mononoke',
+	 ,{ title: 'Studio Ghibli<br>1997 La Princesa Mononoke',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjc1YjI2OGUtNzgyOC00ZmFiLThkNzgtYTRkNDQ5ZGEwM2I1XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/11.-la-princ-3sa-m-0n-0n-0k-3/11.%20La%20princ3sa%20m0n0n0k3.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Mis Vecinos los Yamada',
+	 ,{ title: 'Studio Ghibli<br>1999 Mis Vecinos los Yamada',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTA3Y2FjZDItZmZlOC00NGI0LWEwNTItNTE0ZTQ5NTJkZjJlXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/12.-mis-vecinos-los-yamada/12.%20Mis%20vecinos%20los%20yamada.mkv'
 	  }
-	 ,{ title: 'Studio Ghibli<br>El Viaje de Chihiro',
+	 ,{ title: 'Studio Ghibli<br>2001 El Viaje de Chihiro',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2E2YzcwMTQtNWRlMC00ZGZlLWJhZTEtMDU4ZGIzMWI0NzJmXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/13.-el-viaje-de-chihiro/El.Viaje.de.Chihiro.1080p.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Haru en el Reino de los Gatos',
+	 ,{ title: 'Studio Ghibli<br>2002 Haru en el Reino de los Gatos',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BY2NjZTY5NjgtNjIyZC00NDY5LWE2NmQtYjgxMjBlMWYwNDRjXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/14.-haru-en-el-reino-de-los-gatos/14.%20Haru%20en%20el%20reino%20de%20los%20gatos.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>El Castillo Ambulante',
+	 ,{ title: 'Studio Ghibli<br>2004 El Castillo Ambulante',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDRiZjJkYWEtOTdlYi00NjZiLWFkY2EtMGRjYThhYjNhYWU0XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/15.-el-castillo-ambulante_202108/15.%20El%20Castillo%20Ambulante.mkv'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Cuentos de Terramar',
+	 ,{ title: 'Studio Ghibli<br>2006 Cuentos de Terramar',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTU4NmI0YzAtOTkwMy00ZGU1LTljZjAtYWU1MTMwNTVhZGVmXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/16.-cuentos-de-terramar/16.%20Cuentos%20de%20terramar.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>PONYO',
+	 ,{ title: 'Studio Ghibli<br>2008 PONYO',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTk0ZjhmMTItZTY4OS00MzM0LWI3YjQtYTIyMzIwN2UwYjQ0XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/17.-ponyo/17.%20Ponyo.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>La Colina de las Amapolas',
+	 ,{ title: 'Studio Ghibli<br>2011 La Colina de las Amapolas',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzRmYzY2ODktZWM4NS00OTc5LWE5NGEtYWY3NTRmYzM4ZmE5XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/19.-la-colina-de-las-amapolas/19.%20La%20colina%20de%20las%20amapolas.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>Se Levanta el Viento', 
+	 ,{ title: 'Studio Ghibli<br>2013 Se Levanta el Viento', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzdmOWJlNmUtYzE2MC00M2IzLTk2MTktNDFjOTA5ZDVkOGZmXkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://archive.org/download/20.-se-levanta-el-viento/20.%20Se%20levanta%20el%20viento.mp4' 
 	  } 
-	 ,{ title: 'Studio Ghibli<br>La Princesa Kaguya',
+	 ,{ title: 'Studio Ghibli<br>2013 La Princesa Kaguya',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2IxN2ZmNzQtNjQ5Mi00OTFkLThmZWItM2FiMDlmOTE3YTc0XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/21.-la-princesa-kaguya/21.%20La%20princesa%20kaguya.mp4'
 	  }
-	 ,{ title: 'Studio Ghibli<br>El Recuerdo de Marnie',
+	 ,{ title: 'Studio Ghibli<br>2014 El Recuerdo de Marnie',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTY1MDM5YWUtODVkMy00MGRkLTlkMTEtYTQyMTFhZmFjYmZiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/22.-el-recuerdo-de-marnie/22.%20El%20recuerdo%20de%20Marnie.mp4'
+	  }	
+//	 ,{ title: 'Studio Ghibli<br>2020 Earwig y la bruja', 
+//	    thumbnail: 'https://pics.filmaffinity.com/aya_to_majo-802898174-large.jpg', 
+//	    url: 'https://vd236.okcdn.ru/?expires=1741906874237\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.44\u0026type=1\u0026sig=XO6vQP8g0Wk\u0026ct=0\u0026urls=185.226.53.86\u0026clientType=1\u0026zs=43\u0026id=7109543266948'
+//	  }
+	 ,{ title: 'Studio Ghibli<br>2023 El niño y la garza', 
+	   thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTY0OTdjZTgtZjMxMi00ZTMzLTg2M2ItZTkyYTJhYTAzMTMxXkEyXkFqcGc@._V1_.jpg', 
+	   url: 'https://archive.org/download/271353-c-8a-96984-2768-457c-94aa-acc-6fb-06ebfe-mxui-2375428-1fichier/271353--c8a96984-2768-457c-94aa-acc6fb06ebfe--mxui--2375428-1fichier.MP4'
 	  }
-
+	    
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->	  
 	 ,{ title: 'Pelicula<br>Avión Presidencial', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
