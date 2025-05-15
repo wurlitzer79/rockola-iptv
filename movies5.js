@@ -513,7 +513,11 @@
 	  }	  	  
   	 
 	 <!-- ********** MUSICALES    ****************************************************************************************************************** -->
-	 ,{ title: 'Musical<br>El Mundo de las Spice Girls', 
+	 ,{ title: 'Musical<br>Radio Carolina TV OnLine', 
+	    thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Radio_Carolina_2020.png/250px-Logo_Radio_Carolina_2020.png', 
+	    url: 'https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764'
+	  }
+	,{ title: 'Musical<br>El Mundo de las Spice Girls', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExNmI4MzktZmEzNi00YjcyLThjNjgtZTc0YzI1MTI5ZDhlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/el-mundo-de-las-spice-girls/El%20Mundo%20de%20las%20Spice%20Girls.mkv'
 	  }     
