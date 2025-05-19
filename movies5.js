@@ -695,10 +695,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Piraña 3D', 
+	/* ,{ title: 'Pelicula<br>Piraña 3D', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
-	  }	  
+	  } */	  
 	 ,{ title: 'Pelicula<br>Dragon Ball Super: Broly', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
@@ -735,10 +735,10 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjcyOWYxNWYtNGU0ZC00ZWJhLThmZDktYmI1NzRmYjNkZjQ5XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/soy-leyenda-2007_202505/Soy%20Leyenda%20%282007%29.mkv'		 
 	 }
-	 ,{ title: 'Pelicula<br>El Robo del Siglo',
+	/* ,{ title: 'Pelicula<br>El Robo del Siglo',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/el-robo-del-siglo.-2020.720p.-latino/El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
-	 }
+	 } */
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
