@@ -623,7 +623,7 @@
 	  }	
 	 ,{ title: 'Studio Ghibli<br>2020 Earwig y la bruja', 
 	    thumbnail: 'https://pics.filmaffinity.com/aya_to_majo-802898174-large.jpg',
-	    url: 'https://vd538.okcdn.ru/video.m3u8?cmd=videoPlayerCdn\\u0026expires=1748876386953\\u0026srcIp=186.189.92.7\\u0026pr=10\\u0026srcAg=CHROME\\u0026ms=185.226.55.48\\u0026type=2\\u0026sig=OaVEwn26KTA\\u0026ct=8\\u0026urls=185.226.53.37\\u0026clientType=0\\u0026zs=43\\u0026id=7109543266948'
+	    url: 'https://archive.org/download/earwig-y-la-bruja-2020-latino/earwig-y-la-bruja-2020-latino.mp4'
 	  }
 	 ,{ title: 'Studio Ghibli<br>2023 El niño y la garza', 
 	   thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTY0OTdjZTgtZjMxMi00ZTMzLTg2M2ItZTkyYTJhYTAzMTMxXkEyXkFqcGc@._V1_.jpg', 
