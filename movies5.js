@@ -624,7 +624,8 @@
 	 ,{ title: 'Studio Ghibli<br>2020 Earwig y la bruja', 
 	    thumbnail: 'https://pics.filmaffinity.com/aya_to_majo-802898174-large.jpg', 
 //	    url: 'https://vd236.okcdn.ru/?expires=1741906874237\u0026srcIp=186.189.92.7\u0026pr=10\u0026srcAg=CHROME\u0026ms=45.136.22.44\u0026type=1\u0026sig=XO6vQP8g0Wk\u0026ct=0\u0026urls=185.226.53.86\u0026clientType=1\u0026zs=43\u0026id=7109543266948'
-	    url: 'https://vd399.okcdn.ru/expires/1747707748665/clientType/0/srcIp/186.189.92.7/type/2/mid/8497508321823/id/7381329316383/ms/45.136.20.28/zs/43/srcAg/CHROME/urls/185.226.55.66/oq/0/pr/10/ct/29/sig/rfOr4WcudCY/ondemand/dash4_7381329316383.CJ-U3Nen9wFAn-Dd3tIRUAon0HcH0ClFaw.mpd'
+//	    url: 'https://vd399.okcdn.ru/expires/1747707748665/clientType/0/srcIp/186.189.92.7/type/2/mid/8497508321823/id/7381329316383/ms/45.136.20.28/zs/43/srcAg/CHROME/urls/185.226.55.66/oq/0/pr/10/ct/29/sig/rfOr4WcudCY/ondemand/dash4_7381329316383.CJ-U3Nen9wFAn-Dd3tIRUAon0HcH0ClFaw.mpd'
+	    url: 'https://vd399.okcdn.ru/expires/1747707748665/clientType/0/srcIp/186.189.92.7/type/2/mid/8497508321823/id/7381329316383/ms/45.136.20.28/zs/43/srcAg/CHROME/urls/185.226.55.66/oq/0/pr/10/ct/28/sig/rfOr4WcudCY/ondemand/hls4_7381329316383.CJ-U3Nen9wFAn-Dd3tIRUAon0HcH0ClFaw.m3u8'
 	  }
 	 ,{ title: 'Studio Ghibli<br>2023 El niño y la garza', 
 	   thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTY0OTdjZTgtZjMxMi00ZTMzLTg2M2ItZTkyYTJhYTAzMTMxXkEyXkFqcGc@._V1_.jpg', 
