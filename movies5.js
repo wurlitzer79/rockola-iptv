@@ -735,6 +735,14 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjcyOWYxNWYtNGU0ZC00ZWJhLThmZDktYmI1NzRmYjNkZjQ5XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/soy-leyenda-2007_202505/Soy%20Leyenda%20%282007%29.mkv'		 
 	 }
+	 ,{ title: 'Pelicula<br>Guerra Mundial Z',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjlhOGFjYjMtZTQzZS00YWQzLWJkZjAtZDU5NDJlZmQ0N2M4XkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/guerra-mundial-z-1080p-/Guerra%20Mundial%20Z%20%282013%29%201080p%202%2C65%20GB.mkv'		 
+	 }
+	 ,{ title: 'Pelicula<br>Robot Salvaje',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTMwYzNhZTUtYWYyNy00NWVjLTg2NjItMzQ3YzlkYjM1NjQ4XkEyXkFqcGc@._V1_FMjpg_UY593_.jpg',
+		url: 'https://archive.org/download/robot-salvaje-720p-dual/Robot%20Salvaje%20720p%20DUAL%202.09%20GB.mkv'		 
+	 }
 	/* ,{ title: 'Pelicula<br>El Robo del Siglo',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/el-robo-del-siglo.-2020.720p.-latino/El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
