@@ -743,10 +743,10 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTMwYzNhZTUtYWYyNy00NWVjLTg2NjItMzQ3YzlkYjM1NjQ4XkEyXkFqcGc@._V1_FMjpg_UY593_.jpg',
 		url: 'https://archive.org/download/robot-salvaje-720p-dual/Robot%20Salvaje%20720p%20DUAL%202.09%20GB.mkv'		 
 	 }
-	/* ,{ title: 'Pelicula<br>El Robo del Siglo',
+	,{ title: 'Pelicula<br>El Robo del Siglo',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
-		url: 'https://archive.org/download/el-robo-del-siglo.-2020.720p.-latino/El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
-	 } */
+		url: 'https://archive.org/download/el-robo-del-siglo-720p/_El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
+	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
