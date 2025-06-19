@@ -747,6 +747,10 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/el-robo-del-siglo-720p/_El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
 	 }
+	 ,{ title: 'Pelicula<br>Relatos Salvajes',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmJlNWU2ODAtZTFmMC00M2ExLThjM2ItOWIyZGMzZGEzY2RlXkEyXkFqcGc@._V1_.jpg',
+		url: 'https://archive.org/download/relatos-salvajes-2014/Relatos.Salvajes.2014.720p.Latino.mkv'	 
+	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
