@@ -629,7 +629,19 @@
 	   thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTY0OTdjZTgtZjMxMi00ZTMzLTg2M2ItZTkyYTJhYTAzMTMxXkEyXkFqcGc@._V1_.jpg', 
 	   url: 'https://archive.org/download/271353-c-8a-96984-2768-457c-94aa-acc-6fb-06ebfe-mxui-2375428-1fichier/271353--c8a96984-2768-457c-94aa-acc6fb06ebfe--mxui--2375428-1fichier.MP4'
 	  }
-	    
+	 <!-- ********** SAGA GUARDIANES DE LA GALAXIA **************************************************************************************************** -->
+	 ,{ title: 'Saga Guardianes de la Galaxia<br>Volumen 1',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWI0NTNlN2MtMWRjNy00M2QwLWFlZTgtZTlkMTZiYTU2NTk1XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-1/Guardianes.de.la.Galaxia.Vol.1.1080p.AudioLatino.mkv'
+	 }
+	 ,{ title: 'Saga Guardianes de la Galaxia<br>Volumen 2',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYTQyYzdlYTMtMWU1Ny00Yzg1LWFkODgtOWMyOTgxMTk1M2U1XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol_2/Guardianes.de.la.Galaxia.Vol.2.1080p.AudioLatino.mkv'
+	 }
+	 ,{ title: 'Saga Guardianes de la Galaxia<br>Volumen 3',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzQ2MTJiMzQtYzRlNC00MGJkLTg3NWItMWI0YzE1Y2FhZDBlXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-3/Guardianes.de.la.Galaxia.Vol.3.720p.AudioLatino.mkv'
+	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->	  
 	 ,{ title: 'Pelicula<br>Avión Presidencial', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
