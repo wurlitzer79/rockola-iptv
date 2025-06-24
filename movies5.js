@@ -763,6 +763,22 @@
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmJlNWU2ODAtZTFmMC00M2ExLThjM2ItOWIyZGMzZGEzY2RlXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/relatos-salvajes-2014/Relatos.Salvajes.2014.720p.Latino.mkv'	 
 	 }
+	 ,{ title: 'Pelicula<br>Generación Perdida',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/generacion_perdida_1987_720p/Generacion.Perdida.1987.720p.Audio.Dual.mkv'
+	 }	 
+	 ,{ title: 'Pelicula<br>1917',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWRlZGY4MGEtYzQxMC00MjJiLTgzNWMtNDljMmEyNmNjYjJkXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/1917_2019_720p/1917%20%282019%29%20HD%20720p%20Latino.mkv'
+	 }	 
+	 ,{ title: 'Pelicula<br>Robin Hood',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2NkM2Q1MzAtOTk2ZC00YzcyLWE0MjEtZWQ2OGQ5Y2NiM2Q5XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/robin_hood_2018_1080p/Robin%20Hood.2018.1080p.Latino.mkv'
+	 }
+	 ,{ title: 'Pelicula<br>Cuidado Bebe Suelto',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGEyYjNhMzItNTUwNy00MmE4LWJiNDctNzMyMmI3NDY0MTk1XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/cuidado_bebe_suelto_1080p/Cuidado%20Bebe%20Suelto.1080p.Dual.mkv'
+	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
