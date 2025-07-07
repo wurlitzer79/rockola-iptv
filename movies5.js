@@ -136,6 +136,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjU2OTc3NjMtNzcxYi00ODAwLWFkZTAtNzQyMzkzMTgzYzI4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/minions.-nace.-un.-villano.-1080p.-dual-latino._202401/Minions.%20Nace.Un.Villano.1080p.Dual-Latino..mp4'
 	  }
+	 ,{ title: 'Infantil Varios<br>Megamente',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTE2YzI0ZmQtZGNiMC00NjY2LTg3ODktNDFlOTc4MmJjOGFjXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/megamente_2010_1080p/Megamente.2010.1080p.mkv'
+	 }
 	  
      ,{ title: 'Infantil Angry Bird<br>Angry Bird 1', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjRlNmIxN2ItMDE4NS00NTM2LTllNTEtNzAwZTIzZmE0YzA2XkEyXkFqcGc@._V1_.jpg', 
