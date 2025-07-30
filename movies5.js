@@ -1016,10 +1016,26 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const sidebar = document.getElementById("sidebar");
+    
+    // Verificar si existe la sidebar antes de continuar
+    if (!sidebar) {
+        console.error("No se encontró el elemento con ID 'sidebar'");
+        return;
+    }
+
     const btnArriba = document.createElement("button");
     btnArriba.id = "btnArriba";
     btnArriba.textContent = "↑";
-    btnArriba.onclick = () => sidebar.scrollTo({ top: 0, behavior: "smooth" });
+    btnArriba.title = "Ir arriba"; // Añadir tooltip
+    btnArriba.style.position = "fixed"; // Posicionamiento fijo
+    btnArriba.style.bottom = "20px";
+    btnArriba.style.right = "20px";
+    btnArriba.style.zIndex = "1000"; // Asegurar que esté por encima de otros elementos
+    
+    btnArriba.onclick = function() {
+        sidebar.scrollTo({ top: 0, behavior: "smooth" });
+    };
+    
     document.body.appendChild(btnArriba);
 });
 
