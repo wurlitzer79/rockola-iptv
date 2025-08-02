@@ -783,6 +783,10 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGEyYjNhMzItNTUwNy00MmE4LWJiNDctNzMyMmI3NDY0MTk1XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/cuidado_bebe_suelto_1080p/Cuidado%20Bebe%20Suelto.1080p.Dual.mkv'
 	 }
+	 ,{ title: 'Pelicula<br>La Acompañante Perfecta',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODgwNDZkZjctYWU5Zi00MzdhLWJlMDctYTI3ZTQxMzRhZDUwXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/companera-perfecta-2025-1080p/Compa%C3%B1era_perfecta_%282025%29_1080p_DUAL_1.94_GB%5B2%5D.mkv'
+	 }
 	/* se escucha en ingles    
 	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
@@ -1038,4 +1042,5 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
