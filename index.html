@@ -6,10 +6,15 @@
     <title>Rockola-IPTV</title>	
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+    function redireccionar() {
+      window.location.href = 'https://wurlitzer79.github.io/rockola-iptv/online.html';
+    }
+    </script>    
 </head>
 <body>
     <div class="encabezado">
-        <div class="logo">Rockola-IPTV</div>
+        <div class="logo" onclick="redireccionar()" style="cursor: pointer;"><img src="https://www.carolina.cl/_templatesB/desktop/includes/img/header/carolinatvlogo.jpg" style="width:13%;" />&nbsp;Rockola-IPTV</div>
     </div>
     
     <div class="contenedor" id="contenedor-peliculas">
@@ -48,4 +53,5 @@
     <script src="movies5.js"></script>
     <script src="app.js"></script>
 </body>
+
 </html>
