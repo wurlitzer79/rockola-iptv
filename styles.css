@@ -27,7 +27,7 @@ body {
     font-size: 24px;
     font-weight: bold;
     color: #000000; /*#e50914;*/						/*color letra titulo principal*/
-	text-align: center;
+	text-align: left;
 }
 
 .barra-busqueda {
@@ -252,5 +252,6 @@ body {
 .btn-cerrar:hover {
     background: #e50914;
 }
+
 
 /* Media queries se mantienen igual */
