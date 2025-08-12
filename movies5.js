@@ -519,7 +519,7 @@
 	 <!-- ********** MUSICALES    ****************************************************************************************************************** -->
 	,{ title: 'Musical<br>Ricardo Arjona - Santo Pecado Unplugged', 
 	    thumbnail: 'https://ia802806.us.archive.org/26/items/mbid-98663bc9-135a-453d-8e80-aab091af7e6c/mbid-98663bc9-135a-453d-8e80-aab091af7e6c-6590801858.jpg', 
-	    url: 'https://archive.org/download/music-01_20221113/MUSIC01.mpg'
+	    url: 'https://archive.org/download/music-01_20221113/MUSIC01.mp4'
 	 }
 	,{ title: 'Musical<br>El Mundo de las Spice Girls', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExNmI4MzktZmEzNi00YjcyLThjNjgtZTc0YzI1MTI5ZDhlXkEyXkFqcGc@._V1_.jpg', 
@@ -1040,6 +1040,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
