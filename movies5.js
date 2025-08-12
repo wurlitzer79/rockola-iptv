@@ -517,12 +517,10 @@
 	  }	  	  
   	 
 	 <!-- ********** MUSICALES    ****************************************************************************************************************** -->
-/*
-	,{ title: 'Musical<br>Radio Carolina TV OnLine', 
-	    thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_Radio_Carolina_2020.png/250px-Logo_Radio_Carolina_2020.png', 
-	    url: 'https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764'
-	  }
-*/
+	,{ title: 'Musical<br>Ricardo Arjona - Santo Pecado Unplugged', 
+	    thumbnail: 'https://ia802806.us.archive.org/26/items/mbid-98663bc9-135a-453d-8e80-aab091af7e6c/mbid-98663bc9-135a-453d-8e80-aab091af7e6c-6590801858.jpg', 
+	    url: 'https://archive.org/download/music-01_20221113/MUSIC01.mpg'
+	 }
 	,{ title: 'Musical<br>El Mundo de las Spice Girls', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjExNmI4MzktZmEzNi00YjcyLThjNjgtZTc0YzI1MTI5ZDhlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/el-mundo-de-las-spice-girls/El%20Mundo%20de%20las%20Spice%20Girls.mkv'
@@ -1042,5 +1040,6 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
