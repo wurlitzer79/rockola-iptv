@@ -906,9 +906,13 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2U0MzdjOTItNDg5NS00NWQ0LWE5ZWEtZmRjNDVmY2NmZDFjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dbz-08-el-poder-invencible-bluray-full-hd-1080p/DBZ%2008%20-%20El%20Poder%20Invencible%20Bluray%20FullHD%201080p.mkv'
 	  }
-	 ,{ title: 'Pelicula Dragon Ball<br>Especial 1 La Batalla De Freezer Contra El Padre De Goku', 
+	 ,{ title: 'Pelicula Dragon Ball<br>Especial 1: La Batalla De Freezer Contra El Padre De Goku', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTQwMmMwMDktMmE4Ni00YjVlLWJmNmUtZjIyMTgzMTkwZjIyXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dbz-especial-1-la-batalla-de-freezer-contra-el-padre-de-goku-bluray-full-hd-1080p/DBZ%20Especial%201%20-%20La%20Batalla%20de%20Freezer%20Contra%20el%20Padre%20de%20Goku%20Bluray%20FullHD%201080p.mkv'
+	  }
+	 ,{ title: 'Pelicula Dragon Ball<br>Dragon Ball Z: La Fusion De Goku Y Vegeta', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjIyNGY0OWYtY2JlNS00ODVjLWJiODEtYWNlNWZjNDMzZjUzXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dbz-la-fusion-de-goku-y-vegeta/DBZ%20-%20La%20Fusion%20De%20Goku%20y%20Vegeta.mp4'
 	  }
 
 	];
@@ -1047,6 +1051,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
