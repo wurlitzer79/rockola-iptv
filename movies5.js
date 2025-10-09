@@ -779,9 +779,8 @@
 		url: 'https://archive.org/download/yo-antes-de-ti.-720p.-audio-latino/Yo%20Antes%20De%20Ti.720p.AudioLatino.mkv'		 
 	 }
 	*/
-	    
-
-	 ,{ title: 'Peliculas Destino Final<br>Destino Final 1',
+	 <!-- ********** PELICULAS DESTINO FINAL ************************************************************************************************************************ -->
+	,{ title: 'Peliculas Destino Final<br>Destino Final 1',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWMwNTc4NjItNzJhZC00OWY5LWE2NGYtMzkwNTZmOTI4YWMzXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final.mp4'
 	  }
@@ -802,7 +801,7 @@
 	    url: 'https://archive.org/download/destino-final_202407/Destino%20Final%205.mp4'
 	  }
 
-	  
+	 <!-- ********** PELICULAS STALLONE ************************************************************************************************************************ -->	  
 	 ,{ title: 'Peliculas Stallone<br>Riesgo Total', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGFkZmZhYWYtMTk3Mi00MWE2LWFiNjItZDUzNWY2OGM5ZTBiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/stalone-coll/stalone%20coll.mp4'
@@ -827,7 +826,7 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjRmZDUzZTctMzkyMi00ZDY1LTk2MDgtMDI0MTM4ZTYzOWI4XkEyXkFqcGc@._V1_FMjpg_UY337_.jpg', 
 	    url: 'https://archive.org/download/asesinos-1080p-latino/Asesinos.1080p.Latino.mp4'
 	  }
-	  	  
+	 <!-- ********** PELICULAS SCARY MOVIE ************************************************************************************************************************ -->	  	  
 	 ,{ title: 'Pelicula Scary Movie<br>Scary Movie 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/image_20240821_2004/Image1.mp4'
@@ -848,7 +847,7 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2NlMjRlZTMtODY5Ni00OGYxLThlYmYtZWQ4MjY1NjVlZjBmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/image_20240821_2004/Image5.mp4'
 	  }	  
-
+	 <!-- ********** PELICULAS TOM HANKS ************************************************************************************************************************ -->
 	 ,{ title: 'Pelicula Tom Hanks<br>El Código DaVinci', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJmNDM3NDEtODIwNi00NzBhLWFjZTMtZDI5NmZiMmI0ZWYxXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/nuevo_202410/NUEVO.mp4'
@@ -865,7 +864,7 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2U1MTI2MjctYzQ0MC00NDMxLWEyNTctMjhiZWVjMWNiY2ExXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/nuevo_202410/NUEVO4.mp4'
 	  }	  
-	  	  
+	 <!-- ********** PELICULAS JIM CARREY  ************************************************************************************************************************ -->	  	  
 	 ,{ title: 'Pelicula Jim Carrey<br>Irene yo y mi otro yo', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjEzYTdkMmUtN2Y3Mi00Mzc5LWJkYTUtYTY4NzUxZTU2NzExXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/aki-videos_202407/AKI_VIDEOS2.mp4'
@@ -890,7 +889,7 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGRhNmRiOWYtYzA1MS00ZGMyLTk1NGQtN2I2MTdhOThmMGRjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv'
 	  }	  
-
+	 <!-- ********** PELICULAS DRAGON BALL ************************************************************************************************************************ -->
 	 ,{ title: 'Pelicula Dragon Ball<br>Dragon Ball Super: Broly', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTA5MTc1M2EtZWQ2Ni00ZmU2LTg3MzQtOTliMjE4OGM0ZWFiXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dragon-ball-super-broly/Dragon%20Ball%20Super%3A%20Broly.mp4'
@@ -906,6 +905,10 @@
 	 ,{ title: 'Pelicula Dragon Ball<br>Dragon Ball Z: El Poder Invencible', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2U0MzdjOTItNDg5NS00NWQ0LWE5ZWEtZmRjNDVmY2NmZDFjXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/dbz-08-el-poder-invencible-bluray-full-hd-1080p/DBZ%2008%20-%20El%20Poder%20Invencible%20Bluray%20FullHD%201080p.mkv'
+	  }
+	 ,{ title: 'Pelicula Dragon Ball<br>Especial 1 La Batalla De Freezer Contra El Padre De Goku', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTQwMmMwMDktMmE4Ni00YjVlLWJmNmUtZjIyMTgzMTkwZjIyXkEyXkFqcGc@._V1_.jpg', 
+	    url: 'https://archive.org/download/dbz-especial-1-la-batalla-de-freezer-contra-el-padre-de-goku-bluray-full-hd-1080p/DBZ%20Especial%201%20-%20La%20Batalla%20de%20Freezer%20Contra%20el%20Padre%20de%20Goku%20Bluray%20FullHD%201080p.mkv'
 	  }
 
 	];
@@ -1044,6 +1047,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
