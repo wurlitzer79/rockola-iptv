@@ -645,6 +645,10 @@
 	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-3/Guardianes.de.la.Galaxia.Vol.3.720p.AudioLatino.mkv'
 	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+	 ,{ title: 'Pelicula<br>De Padres a Hijas', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGZjMTcyYzItOGQ4Zi00M2I2LTgzMDItOWVjMDFlOGE3MzA5XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/fathers.and.daughters.-2015.1080p-dual-lat/Fathers.and.daughters.2015.1080p-dual-lat.mp4'
+	 }
 	 ,{ title: 'Pelicula<br>Flamin Hot', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTczOWUxZjgtNzhlYi00YzUxLTg4ZjctZTQyNmI2MGZlYjU3XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/flamin-hot-el-sabor-que-cambio-la-historia.-2023.-web-dl.-1080p.-latino.-ww-w.-peliculasgd.-net/Flamin%20Hot%20El%20Sabor%20que%20cambio%20la%20historia.%282023%29.WEB-DL.1080p.Latino.WwW.Peliculasgd.Net.mkv'	   
@@ -1055,6 +1059,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
