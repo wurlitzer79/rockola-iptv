@@ -644,7 +644,11 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzQ2MTJiMzQtYzRlNC00MGJkLTg3NWItMWI0YzE1Y2FhZDBlXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-3/Guardianes.de.la.Galaxia.Vol.3.720p.AudioLatino.mkv'
 	 }
-	 <!-- ********** PELICULAS ************************************************************************************************************************ -->	  
+	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+	 ,{ title: 'Pelicula<br>Flamin Hot', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTczOWUxZjgtNzhlYi00YzUxLTg4ZjctZTQyNmI2MGZlYjU3XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/flamin-hot-el-sabor-que-cambio-la-historia.-2023.-web-dl.-1080p.-latino.-ww-w.-peliculasgd.-net/Flamin%20Hot%20El%20Sabor%20que%20cambio%20la%20historia.%282023%29.WEB-DL.1080p.Latino.WwW.Peliculasgd.Net.mkv'	   
+	 }
 	 ,{ title: 'Pelicula<br>Avión Presidencial', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
@@ -1051,6 +1055,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
