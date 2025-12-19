@@ -645,6 +645,10 @@
 	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-3/Guardianes.de.la.Galaxia.Vol.3.720p.AudioLatino.mkv'
 	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+	 ,{ title: 'Pelicula<br>El HOYO 2', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjc3N2UwZDQtODRiZC00ZjJkLTliYzUtYzA4ZGNiMTQ0ZTNjXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/el-hoyo-2/El%20hoyo%202.mp4'
+	 }		
 	 ,{ title: 'Pelicula<br>De Padres a Hijas', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGZjMTcyYzItOGQ4Zi00M2I2LTgzMDItOWVjMDFlOGE3MzA5XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/fathers.and.daughters.-2015.1080p-dual-lat/Fathers.and.daughters.2015.1080p-dual-lat.mp4'
@@ -1059,6 +1063,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
