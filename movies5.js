@@ -644,6 +644,111 @@
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzQ2MTJiMzQtYzRlNC00MGJkLTg3NWItMWI0YzE1Y2FhZDBlXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/guardianes_de_la_galaxia_vol-3/Guardianes.de.la.Galaxia.Vol.3.720p.AudioLatino.mkv'
 	 }
+	 <!-- ********** SAGA NEON GENESIS EVANGELION **************************************************************************************************** -->
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 1',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_01%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 2',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_02_%40Trapo2019_Universo_Anime_.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 3',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_03_%40Trapo2019_Universo_Anime.mkv'
+	 }		
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 4',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_04_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 5',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_05_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 6',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_06_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 7',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_07_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 8',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_08_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 9',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_09_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 10',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_10_%40Trapo2019_Universo_Anime.mkv'
+	 }		
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 11',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_11_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 12',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_12_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 13',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_13_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 14',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_14_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 15',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_15_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 16',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_16_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 17',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_17_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 18',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_18_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 19',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_19_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 20',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_20_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 21',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_21_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 22',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_22_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 23',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_23_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 24',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_24_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 25',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_25_%40Trapo2019_Universo_Anime.mkv'
+	 }
+	 ,{ title: 'Saga NEON GENESIS EVANGELION<br>Capitulo 26',
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjQzNjg2NGQtMWI2Ny00YmFjLWFlNGItZDI4YTZlMmZkNTQxXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_26_%40Trapo2019_Universo_Anime.mkv'
+	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
 	 ,{ title: 'Pelicula<br>El HOYO 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjc3N2UwZDQtODRiZC00ZjJkLTliYzUtYzA4ZGNiMTQ0ZTNjXkEyXkFqcGc@._V1_.jpg',
@@ -1063,6 +1168,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
