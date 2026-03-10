@@ -517,6 +517,10 @@
 	  }	  	  
   	 
 	 <!-- ********** MUSICALES    ****************************************************************************************************************** -->
+	,{ title: 'Musical<br>Bad Bunny - Super Bowl LX 2026', 
+	    thumbnail: 'https://www.apple.com/newsroom/images/2026/02/apple-music-kicks-off-bad-bunnys-road-to-halftime-ahead-of-super-bowl-lx/article/Apple-Music-Super-Bowl-LX-Halftime-Show-Bad-Bunny_big.jpg.large.jpg', 
+	    url: 'https://archive.org/download/bad-bunny-halftime-show-2026/rapidsave.com_highlight_bad_bunny_lady_gaga_ricky_martins_super-einlzke6hdig1.mp4'
+	 }		
 	,{ title: 'Musical<br>Ricardo Arjona - Santo Pecado Unplugged', 
 	    thumbnail: 'https://ia802806.us.archive.org/26/items/mbid-98663bc9-135a-453d-8e80-aab091af7e6c/mbid-98663bc9-135a-453d-8e80-aab091af7e6c-6590801858.jpg', 
 	    url: 'https://archive.org/download/music-01_20221113/MUSIC01.mp4'
@@ -1168,6 +1172,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
