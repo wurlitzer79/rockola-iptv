@@ -754,148 +754,152 @@
 	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_26_%40Trapo2019_Universo_Anime.mkv'
 	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
-	 ,{ title: 'Pelicula<br>El HOYO 2', 
+	 ,{ title: 'Peliculas<br>Joven y Alocada', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWZhYjU4NDYtYjBjYy00ZDQ1LWI5MDEtNzdkZWNhYjBiY2YyXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/joven-y-alocada-2012-ultra-hd/Joven%20y%20alocada%202012%20ULTRA%20HD.mp4'
+	 }
+	,{ title: 'Peliculas<br>El HOYO 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjc3N2UwZDQtODRiZC00ZjJkLTliYzUtYzA4ZGNiMTQ0ZTNjXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/el-hoyo-2/El%20hoyo%202.mp4'
 	 }		
-	 ,{ title: 'Pelicula<br>De Padres a Hijas', 
+	 ,{ title: 'Peliculas<br>De Padres a Hijas', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGZjMTcyYzItOGQ4Zi00M2I2LTgzMDItOWVjMDFlOGE3MzA5XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/fathers.and.daughters.-2015.1080p-dual-lat/Fathers.and.daughters.2015.1080p-dual-lat.mp4'
 	 }
-	 ,{ title: 'Pelicula<br>Flamin Hot', 
+	 ,{ title: 'Peliculas<br>Flamin Hot', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTczOWUxZjgtNzhlYi00YzUxLTg4ZjctZTQyNmI2MGZlYjU3XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/flamin-hot-el-sabor-que-cambio-la-historia.-2023.-web-dl.-1080p.-latino.-ww-w.-peliculasgd.-net/Flamin%20Hot%20El%20Sabor%20que%20cambio%20la%20historia.%282023%29.WEB-DL.1080p.Latino.WwW.Peliculasgd.Net.mkv'	   
 	 }
-	 ,{ title: 'Pelicula<br>Avión Presidencial', 
+	 ,{ title: 'Peliculas<br>Avión Presidencial', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>El Increible Hulk', 
+	 ,{ title: 'Peliculas<br>El Increible Hulk', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
 	  }	  	  
-	 ,{ title: 'Pelicula<br>El Resplandor [25fps]', 
+	 ,{ title: 'Peliculas<br>El Resplandor [25fps]', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmUxZDU3NjktMzA1OS00OGUwLWJkOTctYzhjOGI5MTcyY2U3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/el-resplandor-venta-1980-25fps-3000kps/El%20Resplandor%20%28Venta%201980%20-%2025fps%20-3000kps%29.mp4'
 	  }	  
-	 ,{ title: 'Pelicula<br>El Sexto Sentido', 
+	 ,{ title: 'Peliculas<br>El Sexto Sentido', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjhmYzg2MzUtMzYwMi00NWE0LWIxNTAtOTE0ZDQ4NTQxZGQ0XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/sexto-sentido_202407/Sexto%20Sentido.mp4'
 	  }	 
-	 ,{ title: 'Pelicula<br>La Naranja Mecánica', 
+	 ,{ title: 'Peliculas<br>La Naranja Mecánica', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Los Sustitutos', 
+	 ,{ title: 'Peliculas<br>Los Sustitutos', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmNhMzNhYzgtZTE4OS00NDEyLTk2YzEtYTJiNjlmNjRiZDAwXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/The.surrogates.dvdrip.latino.c/The.surrogates.dvdrip.latino.c.mp4'
 	  }	  
-	 ,{ title: 'Pelicula<br>Machete', 
+	 ,{ title: 'Peliculas<br>Machete', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTY0OTZmYTMtMjhmOC00NzM3LTk2Y2MtMDg1ODNlOTkyNTcwXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2596-machete-2010-720p-d-s-spa-eng-tc-v/2596-Machete%20%282010%29%20720p%20D%20S%20spa%20eng%20TC%20v.mp4'
 	  } 
-	 ,{ title: 'Pelicula<br>Planeta Terror', 
+	 ,{ title: 'Peliculas<br>Planeta Terror', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMmFmOTBhZTUtMDdkNy00YzM4LWI0NmQtOTIzZDNiMzAxZDNhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/planeta-terror_202407/Planeta%20Terror.mp4'
 	  }	  
-	 ,{ title: 'Pelicula<br>Seduciendo a un Extraño', 
+	 ,{ title: 'Peliculas<br>Seduciendo a un Extraño', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYwYTBiMGItODI1MS00MGU4LWE5M2ItNzE3YjZmNzI1OWQ2XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/s3duc13nd0.4.un.extr4n10.www.irandopeliculas.com/s3duc13nd0.4.un.extr4n10.www.%2Cirandopeliculas.com.mp4'
 	  }	  
-	 ,{ title: 'Pelicula<br>Titanes del Pacifico 2', 
+	 ,{ title: 'Peliculas<br>Titanes del Pacifico 2', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjU2OWM0N2ItMWU3Zi00OTE3LWJlOTktNzE3YWNkMDBiOTlhXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/titanes-del-pacifico_202107/Titanes%20del%20Pacifico.mkv'
 	  }	  
-	 ,{ title: 'Pelicula<br>Un Detective en el Kinder 1', 
+	 ,{ title: 'Peliculas<br>Un Detective en el Kinder 1', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGU3ZDk0M2EtMjAwNi00ZTI3LTk4MWQtYjcwNTUwZjMwMWZmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/un-detective-en-el-kinder-1990-espanol-latino/Un%20Detective%20En%20El%20Kinder%20%281990%29%20%28Espa%C3%B1ol%20Latino%29.mp4'
 	  }
-	 ,{ title: 'Pelicula<br>Un Detective en el Kinder 2',
+	 ,{ title: 'Peliculas<br>Un Detective en el Kinder 2',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMDAzYzFlNjEtMzkzNy00OTNkLTgzNjktMGM0NmExNGVmODBmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/un-detective-en-el-kinder-1990-espanol-latino/Un%20Detective%20En%20El%20Kinder%202%20%282016%29%20%28Espa%C3%B1ol%20Latino%29.mp4'
 	  }	  
-	 ,{ title: 'Pelicula<br>AKIRA', 
+	 ,{ title: 'Peliculas<br>AKIRA', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZmEyOWZhNWYtMDdmZi00MmM0LThlMGEtZDA5YzhjNThjYzQ5XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/akira1988_202405/1_5060039041731265309.mp4'
 	  }	  	  
-	 ,{ title: 'Pelicula<br>Pasajeros', 
+	 ,{ title: 'Peliculas<br>Pasajeros', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOTZmZDlmYzgtM2VjMi00OWU4LTk4ZmQtNTExMmQwM2NkODYzXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/Passengers_201703/Passengers.mp4'
 	  }	  	  
-	 ,{ title: 'Pelicula<br>No se aceptan Devoluciones', 
+	 ,{ title: 'Peliculas<br>No se aceptan Devoluciones', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzVjOTZhZTEtNTc4OS00NTY1LThjZTgtZjdkZWViOTI4NDE2XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/no.-se.-aceptan.-devoluciones.-2013.-dvdr/No.Se.Aceptan.Devoluciones.2013.DVDR.mp4'
 	  }	  	  	  
-	 ,{ title: 'Pelicula<br>STEALTH: La Amenaza Invisible', 
+	 ,{ title: 'Peliculas<br>STEALTH: La Amenaza Invisible', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTYyMzMwMDMwMF5BMl5BanBnXkFtZTcwMzEzMzE2MQ@@._V1_.jpg', 
 	    url: 'https://archive.org/download/stealth.-2005.-dvdr/Stealth.2005.DVDR.mp4'
 	  }
-	/* ,{ title: 'Pelicula<br>Piraña 3D', 
+	/* ,{ title: 'Peliculas<br>Piraña 3D', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2JhNDI2NTctNjdlMi00OTA2LWE2MjktYjlmMjMyYWRjYWRmXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://vd281.okcdn.ru/?expires=1741195474434\u0026srcIp=200.55.194.66\u0026pr=10\u0026srcAg=CHROME\u0026ms=185.226.52.31\u0026type=5\u0026sig=BC1qHMvGm40\u0026ct=0\u0026urls=45.136.21.52\u0026clientType=1\u0026zs=43\u0026id=7252733463101'
 	  } */	  
-	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: The End Of Evangelion', 
+	 ,{ title: 'Peliculas<br>Neon Genesis Evangelion: The End Of Evangelion', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDUzNjgyNDEtYzUyNi00ZWNhLWE1OTAtZjdjNjBhZDc5YmQ3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/the-end-of-evangelion-1997_202010/27%20-%20The%20End%20of%20Evangelion%20%281997%29.mkv'
 	  }	  
-	 ,{ title: 'Pelicula<br>Neon Genesis Evangelion: Death & Rebirth', 
+	 ,{ title: 'Peliculas<br>Neon Genesis Evangelion: Death & Rebirth', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGRiOWQyOTAtZDQ0Ny00NGRiLWIyYTYtZWM1MjNjNzg0ZjE3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/neon-genesis-evangelion-death-rebirth/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.mp4'
 	  }	  	  
-	 ,{ title: 'Pelicula<br>Gran Prix', 
+	 ,{ title: 'Peliculas<br>Gran Prix', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNWZlYWFjMzItMTI0My00OGIxLThhYzktMTkxMDNiZThlNjdlXkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/grand-prix-1978/Grand%20Prix%20%281978%29.mp4'
 	  }	      
-	 ,{ title: 'Pelicula<br>La Purga', 
+	 ,{ title: 'Peliculas<br>La Purga', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYzI3Yjk0YmMtOGE0MS00MmQ3LTk4ZTMtYzM3ZWZlYmI2N2I5XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mkv'
 	  }
-	 ,{ title: 'Pelicula<br>Sangre por Sangre',
+	 ,{ title: 'Peliculas<br>Sangre por Sangre',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNDEwYWY5ZjEtNjA5OC00ZGEyLWE3YjgtOWRiNmFiNzU0ZGFiXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/sangre-por-sangre.-1993.720p.-latino/Sangre%20por%20Sangre.1993.720p.Latino.mp4'		 
 	 }
-	 ,{ title: 'Pelicula<br>Soy Leyenda',
+	 ,{ title: 'Peliculas<br>Soy Leyenda',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjcyOWYxNWYtNGU0ZC00ZWJhLThmZDktYmI1NzRmYjNkZjQ5XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/soy-leyenda-2007_202505/Soy%20Leyenda%20%282007%29.mkv'		 
 	 }
-	 ,{ title: 'Pelicula<br>Guerra Mundial Z',
+	 ,{ title: 'Peliculas<br>Guerra Mundial Z',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjlhOGFjYjMtZTQzZS00YWQzLWJkZjAtZDU5NDJlZmQ0N2M4XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/guerra-mundial-z-1080p-/Guerra%20Mundial%20Z%20%282013%29%201080p%202%2C65%20GB.mkv'		 
 	 }
-	 ,{ title: 'Pelicula<br>Robot Salvaje',
+	 ,{ title: 'Peliculas<br>Robot Salvaje',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNTMwYzNhZTUtYWYyNy00NWVjLTg2NjItMzQ3YzlkYjM1NjQ4XkEyXkFqcGc@._V1_FMjpg_UY593_.jpg',
 		url: 'https://archive.org/download/robot-salvaje-720p-dual/Robot%20Salvaje%20720p%20DUAL%202.09%20GB.mkv'		 
 	 }
-	,{ title: 'Pelicula<br>El Robo del Siglo',
+	,{ title: 'Peliculas<br>El Robo del Siglo',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BMzYwMjVkNTAtMTY3MS00ODZkLWFjYjQtM2ZmODA1OTJhYTE2XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/el-robo-del-siglo-720p/_El%20robo%20del%20siglo.2020.720p.Latino.mkv'		 
 	 }
-	 ,{ title: 'Pelicula<br>Relatos Salvajes',
+	 ,{ title: 'Peliculas<br>Relatos Salvajes',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNmJlNWU2ODAtZTFmMC00M2ExLThjM2ItOWIyZGMzZGEzY2RlXkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/relatos-salvajes-2014/Relatos.Salvajes.2014.720p.Latino.mkv'	 
 	 }
-	 ,{ title: 'Pelicula<br>Generación Perdida',
+	 ,{ title: 'Peliculas<br>Generación Perdida',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/generacion_perdida_1987_720p/Generacion.Perdida.1987.720p.Audio.Dual.mkv'
 	 }	 
-	 ,{ title: 'Pelicula<br>1917',
+	 ,{ title: 'Peliculas<br>1917',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWRlZGY4MGEtYzQxMC00MjJiLTgzNWMtNDljMmEyNmNjYjJkXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/1917_2019_720p/1917%20%282019%29%20HD%20720p%20Latino.mkv'
 	 }	 
-	 ,{ title: 'Pelicula<br>Robin Hood',
+	 ,{ title: 'Peliculas<br>Robin Hood',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2NkM2Q1MzAtOTk2ZC00YzcyLWE0MjEtZWQ2OGQ5Y2NiM2Q5XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/robin_hood_2018_1080p/Robin%20Hood.2018.1080p.Latino.mkv'
 	 }
-	 ,{ title: 'Pelicula<br>Cuidado Bebe Suelto',
+	 ,{ title: 'Peliculas<br>Cuidado Bebe Suelto',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMGEyYjNhMzItNTUwNy00MmE4LWJiNDctNzMyMmI3NDY0MTk1XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/cuidado_bebe_suelto_1080p/Cuidado%20Bebe%20Suelto.1080p.Dual.mkv'
 	 }
-	 ,{ title: 'Pelicula<br>La Acompañante Perfecta',
+	 ,{ title: 'Peliculas<br>La Acompañante Perfecta',
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BODgwNDZkZjctYWU5Zi00MzdhLWJlMDctYTI3ZTQxMzRhZDUwXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/companera-perfecta-2025-1080p/Compa%C3%B1era_perfecta_%282025%29_1080p_DUAL_1.94_GB%5B2%5D.mkv'
 	 }
 	/* se escucha en ingles    
-	 ,{ title: 'Pelicula<br>Yo Antes de Ti',
+	 ,{ title: 'Peliculas<br>Yo Antes de Ti',
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjU3NmJmYWItMDVhZC00NmM2LWI3YzEtYTg4MzA0YWZiYTQ2XkEyXkFqcGc@._V1_.jpg',
 		url: 'https://archive.org/download/yo-antes-de-ti.-720p.-audio-latino/Yo%20Antes%20De%20Ti.720p.AudioLatino.mkv'		 
 	 }
@@ -1172,6 +1176,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
