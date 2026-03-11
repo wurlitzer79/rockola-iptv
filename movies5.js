@@ -543,7 +543,10 @@
 	  }	  
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
-		
+	 ,{ title: 'Peliculas<br>Barrabás<br>1961', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmIwOTYyYWQtM2M3NC00ZWM0LTgwNDQtODNhMjE3MGNjY2IwXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/barrabas-1080p-60-fps-1961.mkv/Barrabas_1080p60FPS%201961.mkv'
+	 }
 	 ,{ title: 'Peliculas<br>Soñadores<br>2003', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2FiOWY3YjgtMGFiYy00Y2JkLThhOTAtNTA4YWRjMmY4NzI1XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/the-dreamers-los-sonadores-2003-brrip-hd-720p-latino-dual_202510/The%20Dreamers%20%5BLos%20So%C3%B1adores%5D%20%282003%29%20BRRip%20HD%20720p%20Latino%20Dual.mp4'
@@ -1186,6 +1189,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
