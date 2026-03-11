@@ -544,6 +544,11 @@
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
 		
+
+	 ,{ title: 'Peliculas<br>31 Minutos La Pelicula<br>2008', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWIwMTk2YTItZDg4YS00OWY4LWJkNzUtNTg5ZTkyNDI4M2Q0XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/31-minutos-la-pelicula-2008/31%20Minutos%2C%20La%20Pel%C3%ADcula%20%282008%29.mp4'
+	 }
 	 ,{ title: 'Peliculas<br>31 Minutos Calurosa Navidad<br>2025', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGUzYjAyMzYtZTExMC00MWQxLTg5NTMtNTMwZjFjYjMzYzI0XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/31-minutos-calurosa-navidad-2025/31%20Minutos_%20Calurosa%20Navidad%20%282025%29.mkv'
@@ -1206,6 +1211,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
