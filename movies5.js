@@ -754,6 +754,10 @@
 	    url: 'https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_26_%40Trapo2019_Universo_Anime.mkv'
 	 }
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+	 ,{ title: 'Peliculas<br>EL PRECIO DEL MAÑANA', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWM1ZDYxNjYtNmYzOS00MjBmLWJkM2MtZmJjNDg2NTU5YTA4XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/el-precio-del-manana-2011-pelicula-completa-espanol-latino-hd/El%20Precio%20del%20ma%C3%B1ana%202011%20-%20Pel%C3%ADcula%20Completa%20Espa%C3%B1ol%20Latino%20HD.mp4'
+	 }
 	 ,{ title: 'Peliculas<br>Joven y Alocada', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWZhYjU4NDYtYjBjYy00ZDQ1LWI5MDEtNzdkZWNhYjBiY2YyXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/joven-y-alocada-2012-ultra-hd/Joven%20y%20alocada%202012%20ULTRA%20HD.mp4'
@@ -1176,6 +1180,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
