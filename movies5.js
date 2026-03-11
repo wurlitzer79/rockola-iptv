@@ -543,6 +543,11 @@
 	  }	  
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+		
+	 ,{ title: 'Peliculas<br>El Charlatán<br>1992', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYWM0NGJiYjMtZWI1MC00NzgyLTk5MzQtMWYyZjQyYzc0YTMwXkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/leap-of-faith-1080p-60-fps.mkv/Leap%20Of%20Faith%20%20%20%20%20%201080p_60FPS.mkv'
+	 }
 	 ,{ title: 'Peliculas<br>Barrabás<br>1961', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmIwOTYyYWQtM2M3NC00ZWM0LTgwNDQtODNhMjE3MGNjY2IwXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/barrabas-1080p-60-fps-1961.mkv/Barrabas_1080p60FPS%201961.mkv'
@@ -1189,6 +1194,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
