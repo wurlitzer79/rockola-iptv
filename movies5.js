@@ -544,6 +544,14 @@
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
 		
+	 ,{ title: 'Peliculas<br>31 Minutos Calurosa Navidad<br>2025', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNGUzYjAyMzYtZTExMC00MWQxLTg5NTMtNTMwZjFjYjMzYzI0XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/31-minutos-calurosa-navidad-2025/31%20Minutos_%20Calurosa%20Navidad%20%282025%29.mkv'
+	 }
+	 ,{ title: 'Peliculas<br>Patch Adams<br>1998', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjEwMTJhMDktZDFjZi00MzQ5LTg0NWMtMDlhNmNiYWRkMDk1XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/patch-adams-latino-1080p-latino/Patch%20Adams%20Latino1080p%20Latino.mp4'
+	 }
 	 ,{ title: 'Peliculas<br>Killing Me Softly / Mátame suavemente<br>2002', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjlmMWU5ZTQtODlmOC00YTA1LWI5YWYtYjU0NGI1ZTc0NjBhXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/killing-me-softly-2002-espanol-americano/Killing%20Me%20Softly%202002%20Espanol%20Americano.mp4'
@@ -1198,6 +1206,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
