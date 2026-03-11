@@ -1,6 +1,11 @@
     const movies = [
 	 <!-- ********** PELICULAS INFANTILES VARIAS ********************************************************************************************************** -->	  	
-      { title: 'Infantil Varios<br>Monster University<br>2013', 
+     
+	  { title: 'Infantil Varios<br>Kubo y la Búsqueda Samurái<br>2016',
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTY0NDEyNzAtODc5Yy00ZDhhLTgxMTctMjg4YTM3ZDhiYjY0XkEyXkFqcGc@._V1_.jpg', 
+		url: 'https://archive.org/download/4ba-07df-84fb-131753bc-8c-4b-1a-235473ac-755c-51842e-0d-7c-9a-94334e-5face-29c-3/4ba07df84fb131753bc8c4b1a235473ac755c51842e0d7c9a94334e5face29c3.mp4'
+	  }	
+	 ,{ title: 'Infantil Varios<br>Monster University<br>2013', 
 		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzkxMzBhMDUtMmVmNy00MWEzLWIyYjItYmYzOGZlNDEyYWE1XkEyXkFqcGc@._V1_.jpg', 
 		url: 'https://archive.org/download/5507f-7c-7c-144f-95f-280ae-07b-36e-67162-1080p_202507/5507f7c7c144f95f280ae07b36e67162-1080p.mp4'
 	  }	 		
@@ -1219,6 +1224,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
