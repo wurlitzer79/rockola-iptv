@@ -543,43 +543,48 @@
 	  }	  
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
-	 ,{ title: 'Peliculas<br>EL PRECIO DEL MAÑANA', 
+		
+	 ,{ title: 'Peliculas<br>Soñadores<br>2003', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BN2FiOWY3YjgtMGFiYy00Y2JkLThhOTAtNTA4YWRjMmY4NzI1XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/the-dreamers-los-sonadores-2003-brrip-hd-720p-latino-dual_202510/The%20Dreamers%20%5BLos%20So%C3%B1adores%5D%20%282003%29%20BRRip%20HD%20720p%20Latino%20Dual.mp4'
+	 }
+	 ,{ title: 'Peliculas<br>El precio del mañana<br>2011', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWM1ZDYxNjYtNmYzOS00MjBmLWJkM2MtZmJjNDg2NTU5YTA4XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/el-precio-del-manana-2011-pelicula-completa-espanol-latino-hd/El%20Precio%20del%20ma%C3%B1ana%202011%20-%20Pel%C3%ADcula%20Completa%20Espa%C3%B1ol%20Latino%20HD.mp4'
 	 }
-	 ,{ title: 'Peliculas<br>Joven y Alocada', 
+	 ,{ title: 'Peliculas<br>Joven y Alocada<br>2012', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMWZhYjU4NDYtYjBjYy00ZDQ1LWI5MDEtNzdkZWNhYjBiY2YyXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/joven-y-alocada-2012-ultra-hd/Joven%20y%20alocada%202012%20ULTRA%20HD.mp4'
 	 }
-	,{ title: 'Peliculas<br>El HOYO 2', 
+	,{ title: 'Peliculas<br>El hoyo 2<br>2024', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNjc3N2UwZDQtODRiZC00ZjJkLTliYzUtYzA4ZGNiMTQ0ZTNjXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/el-hoyo-2/El%20hoyo%202.mp4'
 	 }		
-	 ,{ title: 'Peliculas<br>De Padres a Hijas', 
+	 ,{ title: 'Peliculas<br>De padres a hijas<br>2015', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BOGZjMTcyYzItOGQ4Zi00M2I2LTgzMDItOWVjMDFlOGE3MzA5XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/fathers.and.daughters.-2015.1080p-dual-lat/Fathers.and.daughters.2015.1080p-dual-lat.mp4'
 	 }
-	 ,{ title: 'Peliculas<br>Flamin Hot', 
+	 ,{ title: 'Peliculas<br>Flamin Hot<br>2023', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZTczOWUxZjgtNzhlYi00YzUxLTg4ZjctZTQyNmI2MGZlYjU3XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/flamin-hot-el-sabor-que-cambio-la-historia.-2023.-web-dl.-1080p.-latino.-ww-w.-peliculasgd.-net/Flamin%20Hot%20El%20Sabor%20que%20cambio%20la%20historia.%282023%29.WEB-DL.1080p.Latino.WwW.Peliculasgd.Net.mkv'	   
 	 }
-	 ,{ title: 'Peliculas<br>Avión Presidencial', 
+	 ,{ title: 'Peliculas<br>Avión presidencial<br>1997', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZjI2YmZjN2ItODNmYS00YmNkLWI0Y2YtMmQyZTVlM2NhZjg3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/2824-avion-presidencial-1997-720p-d-s-spa-eng-v_202404/2824-Avion%20Presidencial%20%281997%29%20720p%20D%20S%20spa%20eng%20v.mp4'
 	  }
-	 ,{ title: 'Peliculas<br>El Increible Hulk', 
+	 ,{ title: 'Peliculas<br>El increible hulk<br>2008', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmJkODY3ZDItNDk4Ny00OGFmLWE3OGQtYmEwMDRmMGQ3NmI2XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/5-el-increible-hulk/5%20El%20Increible%20Hulk.mp4'
 	  }	  	  
-	 ,{ title: 'Peliculas<br>El Resplandor [25fps]', 
+	 ,{ title: 'Peliculas<br>El resplandor<br>1980', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYmUxZDU3NjktMzA1OS00OGUwLWJkOTctYzhjOGI5MTcyY2U3XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/el-resplandor-venta-1980-25fps-3000kps/El%20Resplandor%20%28Venta%201980%20-%2025fps%20-3000kps%29.mp4'
 	  }	  
-	 ,{ title: 'Peliculas<br>El Sexto Sentido', 
+	 ,{ title: 'Peliculas<br>El sexto sentido<br>1999', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMjhmYzg2MzUtMzYwMi00NWE0LWIxNTAtOTE0ZDQ4NTQxZGQ0XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/sexto-sentido_202407/Sexto%20Sentido.mp4'
 	  }	 
-	 ,{ title: 'Peliculas<br>La Naranja Mecánica', 
+	 ,{ title: 'Peliculas<br>La naranja mecánica<br>1971', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_.jpg', 
 	    url: 'https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4'
 	  }
@@ -1180,6 +1185,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
