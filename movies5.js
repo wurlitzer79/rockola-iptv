@@ -545,6 +545,10 @@
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
 		
 
+	 ,{ title: 'Peliculas<br>La Novicia<br>2017', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BMTU5NDQzNTY2MV5BMl5BanBnXkFtZTgwMjgxMTMyMzI@._V1_.jpg',
+	    url: 'https://archive.org/download/noviatate-2017-1080p-latino/Noviatate%202017%201080p%20latino.mp4'
+	 }
 	 ,{ title: 'Peliculas<br>31 Minutos La Pelicula<br>2008', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BZWIwMTk2YTItZDg4YS00OWY4LWJkNzUtNTg5ZTkyNDI4M2Q0XkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/31-minutos-la-pelicula-2008/31%20Minutos%2C%20La%20Pel%C3%ADcula%20%282008%29.mp4'
@@ -1211,6 +1215,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
