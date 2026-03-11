@@ -1,6 +1,10 @@
     const movies = [
 	 <!-- ********** PELICULAS INFANTILES VARIAS ********************************************************************************************************** -->	  	
-      { title: 'Infantil Varios<br>Bambi', 
+      { title: 'Infantil Varios<br>Monster University<br>2013', 
+		thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzkxMzBhMDUtMmVmNy00MWEzLWIyYjItYmYzOGZlNDEyYWE1XkEyXkFqcGc@._V1_.jpg', 
+		url: 'https://archive.org/download/5507f-7c-7c-144f-95f-280ae-07b-36e-67162-1080p_202507/5507f7c7c144f95f280ae07b36e67162-1080p.mp4'
+	  }	 		
+     ,{ title: 'Infantil Varios<br>Bambi', 
 		thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuuFcuDnPQiCfEwmRSSsdtOcFdI6-H6khZepIQL-f2fVMFEh8T0DlGR0RLMo-8aSKMmxAyQQAQEDT5Nc8uZ4qEIp20nOROwfPYbe1yOpPufOEzSBRsEU3JxPXlglLFOAT8dYIWS2SAmeGQk1yxESZiNiBL1TWJpNjGPJSJl2uoCPQD94NYT1Nmb_Ml/s1145/Bambi%201.jpg', 
 		url: 'https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/BAMBI%201.mp4'
 	  }	 
@@ -1215,6 +1219,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
