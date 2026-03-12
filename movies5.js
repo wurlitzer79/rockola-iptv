@@ -552,6 +552,11 @@
 	  }	  
 
 	 <!-- ********** PELICULAS ************************************************************************************************************************ -->
+		
+	 ,{ title: 'Peliculas<br>Lolita<br>1997', 
+	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BM2RhYjNkYzAtYmFkMi00MjI5LWE5MzUtMTA3ODAwZmMzMzM0XkEyXkFqcGc@._V1_.jpg',
+	    url: 'https://archive.org/download/lolita-1987-latino/Lolita%201987%20LATINO.mp4'
+	 }
 	 ,{ title: 'Peliculas<br>Tropa de Elite<br>2007', 
 	    thumbnail: 'https://m.media-amazon.com/images/M/MV5BNzIyZTdkMjMtMzI5OC00ODAwLWI0ZGQtNjdlMDhiMzc0ODdiXkEyXkFqcGc@._V1_.jpg',
 	    url: 'https://archive.org/download/tropa-de-elite-2007-calidad-hd-espanol-latino/Tropa%20de%20Elite%20%282007%29%20%5BCalidad%20HD%20%20Espa%C3%B1ol%20Latino%5D.mp4'
@@ -1226,6 +1231,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
     document.body.appendChild(btnArriba);
 });
+
 
 
 
